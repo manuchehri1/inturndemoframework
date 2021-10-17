@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "test": "npx codeceptjs run --steps",
-        "test:mochawsome": "npx codeceptjs run --steps --reporter mochawesome",
+        "test:mochawesome": "npx codeceptjs run --steps --reporter mochawesome",
         "codeceptjs:bdd": "npx codeceptjs run --features --steps --reporter mochawesome",
         "codeceptjs:test": "npx codeceptjs run --tests --steps --reporter mochawesome"
     },

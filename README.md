@@ -72,9 +72,9 @@ allure serve output
 
 ```
 
-2. Mochawsome
+2. Mochawesome
 ```
-$ npm run test:mochawsome  ---> this command will generate the Mochawsome html report under output/htmlReport directory
+$ npm run test:mochawesome  ---> this command will generate the Mochawsome html report under output/htmlReport directory
 
 ```
 
