@@ -78,5 +78,13 @@ $ npm run test:mochawesome  ---> this command will generate the Mochawsome html 
 
 ```
 
+## Parallel Execution
+
+Run tests in parallel with 3 workers:
+
+```
+npx codeceptjs run-workers 3
+```
+
 
 NOTE: It can be improved and can be much more dynamic, just takes time !!!
