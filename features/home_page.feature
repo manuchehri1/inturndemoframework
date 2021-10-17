@@ -18,7 +18,7 @@ Feature: Google Home Page -- BDD Gherkin
     And The word "About" should be visible on the page
       
 
-
+  # Let's fail this scenario intentionaly 
   Scenario: Validate the search functionality
     When I enter "Java" to the search box
     And I push the ENTER key
