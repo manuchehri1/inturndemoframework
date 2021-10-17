@@ -39,7 +39,7 @@ An automation testing framework for web application using CodeceptJS
 - Java 8 (for Allure Report)
 
 ### Installation
-1. Clone the repo
+1. Clone the repo https://github.com/manuchehri1/inturndemoframework.git
 ```
 git clone 
 ```
